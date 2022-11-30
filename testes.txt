@@ -1,5 +1,4 @@
-teste pra lembrar os comandos git
-
+comandos git usados em aula
 
 lista de comandos que uso com frequência
 mkdir criar repositorio
