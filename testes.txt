@@ -1,1 +1,12 @@
 teste pra lembrar os comandos git
+
+
+lista de comandos que uso com frequência
+mkdir criar repositorio
+cd .. = tirar outro repositorio
+code . -r = reload
+git init
+cd nome do repositorio = entra no repositorio
+git add nome do arquivo
+git commit -m "feat/init(code,file): descrição da mudança"
+git ´push -u ou -f 
