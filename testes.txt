@@ -8,4 +8,4 @@ git init
 cd nome do repositorio = entra no repositorio
 git add nome do arquivo
 git commit -m "feat/init(code,file): descrição da mudança"
-git ´push -u ou -f 
+git push -u ou -f 
